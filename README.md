@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alvino Rhasya</h1>
 <h3 align="center">A passionate Software Development Student & Mobile/Web Developer 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvino-rhasya&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
-
 ---
 
 ### 🚀 About Me
