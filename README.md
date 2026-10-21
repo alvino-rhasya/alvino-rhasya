@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently studying **Software Development (Rekayasa Perangkat Lunak)** at SMK IDN Backpacker School.
+- 🔭 I’m currently studying **Software Development (Rekayasa Perangkat Lunak)** at SMK IDN Boarding School.
 - 📱 Passionate about building sleek **Mobile Apps** (Flutter) and robust **Web Applications** (Laravel & JavaScript).
 - ⚡ Fun fact: I love exploring new places, backpacking, and coding cool stuff!
 
